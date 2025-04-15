@@ -5,7 +5,7 @@
 # 📊 Power BI Sales Dashboard – Global Superstore
 
 **🎯 Objective:**  
-Create a dynamic Power BI dashboard to visualize global sales and profit trends, category breakdowns, and product performance using the Global Superstore dataset.
+To create a dynamic Power BI dashboard to visualize global sales and profit trends, category breakdowns, and product performance using the Global Superstore dataset.
 
 ---
 
@@ -61,19 +61,5 @@ Create a dynamic Power BI dashboard to visualize global sales and profit trends,
 
 ---
 
-## 📁 Dataset Structure
 
-**Tables:**
-- `ListOfOrders`
-- `OrderBreakdown`
-
----
-
-## 📝 Notes
-
-- Dashboard designed in Microsoft Power BI.
-- Focus on clean layout, business insight, and ease of use.
-- Provides actionable visuals for tracking sales and profitability across multiple dimensions.
-
----
 
