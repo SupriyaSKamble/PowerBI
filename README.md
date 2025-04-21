@@ -60,6 +60,7 @@ To create a dynamic Power BI dashboard to visualize global sales and profit tren
 - **Cross-filtering Enabled:** Clicking on one visual dynamically updates others.
 
 ---
+![image](https://github.com/user-attachments/assets/c71dd7fa-ff2e-4e76-847b-0823c815a2a4)
 
 
 
